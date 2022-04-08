@@ -26,8 +26,8 @@
 [![React](https://user-images.githubusercontent.com/86494748/148681760-b140d3e8-7e61-4bfd-9266-b1f72523fe32.png)](https://ru.reactjs.org/)
 [![Node.js](https://user-images.githubusercontent.com/86494748/158791550-15622b7d-b568-4c49-8bdd-b6732cb2869b.png)](https://nodejs.org/en/)
 
-### 🔥 Моя статистика:
-<img src="https://github-readme-stats.vercel.app/api?username=elwoode&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ia-stepanov&layout=compact" height="140px"/>
-
 ### 🏆 Мои трофеи:
 [![trophy](https://github-profile-trophy.vercel.app/?username=elwoode)](https://github.com/elwoode/github-profile-trophy)
+### 🔥 Моя статистика:
+<img src="https://github-readme-stats.vercel.app/api?username=elwoode&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elwoode&layout=compact" height="140px"/>
+
