@@ -28,3 +28,6 @@
 
 ### 🔥 Моя статистика:
 <img src="https://github-readme-stats.vercel.app/api?username=elwoode&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ia-stepanov&layout=compact" height="140px"/>
+
+### 🏆 Мои трофеи:
+[![trophy](https://github-profile-trophy.vercel.app/?username=elwoode)](https://github.com/elwoode/github-profile-trophy)
