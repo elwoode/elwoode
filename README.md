@@ -29,5 +29,5 @@
 ### 🏆 Мои трофеи:
 [![trophy](https://github-profile-trophy.vercel.app/?username=elwoode)](https://github.com/elwoode/github-profile-trophy)
 ### 🔥 Моя статистика:
-<img src="https://github-readme-stats.vercel.app/api?username=elwoode&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elwoode&layout=compact" height="140px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=elwoode&show_icons=true&theme=tokyonight" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elwoode&theme=tokyonight" height="140px"/>
 
