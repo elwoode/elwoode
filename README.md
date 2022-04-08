@@ -27,7 +27,8 @@
 [![Node.js](https://user-images.githubusercontent.com/86494748/158791550-15622b7d-b568-4c49-8bdd-b6732cb2869b.png)](https://nodejs.org/en/)
 
 ### 🏆 Мои трофеи:
-[![trophy](https://github-profile-trophy.vercel.app/?username=elwoode)](https://github.com/elwoode/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=elwoode&theme=onedark)](https://github.com/elwoode/github-profile-trophy)
+
 ### 🔥 Моя статистика:
 <img src="https://github-readme-stats.vercel.app/api?username=elwoode&show_icons=true&theme=tokyonight" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elwoode&theme=tokyonight" height="140px"/>
 
