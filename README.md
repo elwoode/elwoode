@@ -5,6 +5,12 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
+<p align="center">
+<a href="www.linkedin.com/in/DumVic"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://vk.com/elwoode"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"></a>
+<a href="https://t.me/elwoode"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+</p>
+
 ### 👩‍💻 Обо мне:
 
 Мне нравится фронтенд-разработка, это творческий процесс без ограничений, который связан с дизайном (UI, UX) и разработкой приложений. Люблю, когда приложение сделано с заботой о пользователях.
