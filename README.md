@@ -10,8 +10,7 @@
 <a href="https://vk.com/elwoode"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"></a>
 <a href="https://t.me/elwoode"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
-<p align="center">
-  +79531442463</p>
+
 
 
 ### 👩‍💻 Обо мне:
