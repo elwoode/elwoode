@@ -6,7 +6,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 <p align="center">
-<a href="https://wa.me/79110380326"><img src="https://img.shields.io/badge/+79531442463-blue?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://wa.me/79110380326"><img src="https://img.shields.io/badge/+79110380326-blue?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:Elwoode@email.ru"><img src="https://img.shields.io/badge/Elwoode@yandex.ru-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <p align="center">
