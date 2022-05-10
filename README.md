@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/dumvic/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://vk.com/elwoode"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"></a>
 <a href="https://t.me/elwoode"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+<a href="mailto:Elwoode@email.ru"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=&logoColor=white"></a>
 </p>
 
 
