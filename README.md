@@ -6,14 +6,16 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 <p align="center">
+<a href="tel:+79531442463"><img src="https://img.shields.io/badge/+79531442463-blue?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="mailto:Elwoode@email.ru"><img src="https://img.shields.io/badge/Elwoode@yandex.ru-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+<p align="center">
 <a href="https://www.linkedin.com/in/dumvic/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://vk.com/elwoode"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"></a>
 <a href="https://t.me/elwoode"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
-<a href="mailto:Elwoode@email.ru"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 </p>
-<p align="center">
-<a href="tel:+74994091612"><img src="https://img.shields.io/badge/+79531442463-blue?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</p>
+
 
 
 
