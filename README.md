@@ -10,7 +10,7 @@
 <a href="https://vk.com/elwoode"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"></a>
 <a href="https://t.me/elwoode"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
-<p align="center"><img src="https://user-images.githubusercontent.com/88889139/167612844-468c9def-a022-4f93-9db4-509f187c62dd.png">+79110380326</P>
+<p align="center"><img src="https://user-images.githubusercontent.com/88889139/167612844-468c9def-a022-4f93-9db4-509f187c62dd.png" height="14px" width="14px">+79110380326</P>
 
 
 ### 👩‍💻 Обо мне:
