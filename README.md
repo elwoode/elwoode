@@ -11,7 +11,7 @@
 <a href="https://t.me/elwoode"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
 <p align="center">
-  <a href="tel:+79531442463"><img src="https://user-images.githubusercontent.com/88889139/167618126-b8b34f82-e166-4411-9184-36997c3345a6.png" margin-top: 5px></a>
+  <a href="tel:+79531442463"><img src="https://user-images.githubusercontent.com/88889139/167618126-b8b34f82-e166-4411-9184-36997c3345a6.png" margin-top: 5px;></a>
   +79531442463</p>
 
 
