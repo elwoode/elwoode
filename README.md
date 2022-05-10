@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="tel:+79531442463"><img src="https://user-images.githubusercontent.com/88889139/167618126-b8b34f82-e166-4411-9184-36997c3345a6.png"></a>
-  +79531442463/p>
+  +79531442463</p>
 
 
 ### 👩‍💻 Обо мне:
