@@ -6,8 +6,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 <p align="center">
-  [![Typing SVG](https://img.shields.io/badge/+79531442463-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](href="tel:+78142332211")
-<a href="tel:+78142332211"><img src="https://img.shields.io/badge/+79531442463-blue?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="tel:+79531442463"><img src="https://img.shields.io/badge/+79531442463-blue?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:Elwoode@email.ru"><img src="https://img.shields.io/badge/Elwoode@yandex.ru-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <p align="center">
