@@ -11,7 +11,7 @@
 <a href="https://t.me/elwoode"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
 <p align="center">
-  <a href="tel:+79531442463"><img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" height="20px"></a></P>
+  <a href="tel:+79531442463"><img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" height="20px">+79531442463</a></P>
 
 
 ### 👩‍💻 Обо мне:
