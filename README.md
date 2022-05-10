@@ -12,8 +12,8 @@
 <a href="mailto:Elwoode@email.ru"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <p align="center">
-<a href=href="tel:+79531442463"><img src="https://img.shields.io/badge/Telephone-blue?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  +79531442463</p>
+<a href="tel:+79531442463"><img src="https://img.shields.io/badge/+79531442463-blue?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
 
 
 
